@@ -11,3 +11,6 @@ Line 1 of the config.txt file should be the time limit, and line 2 of the config
 The absolute time limit is approximately when the judge will stop running the code. The judge will not stop running it early if it finishes early.
 The status code TLEK means that the program was killed because it took longer than the absolute time limit.
 The next lines denote the amount of points that each test case will be worth if the answer is accepted, each corresponding to one test case.
+
+# Submission
+You can edit the submission.cpp file and paste in your code for testing. The judge.cpp file can be compiled once and you can just run the executable every time from then on.
