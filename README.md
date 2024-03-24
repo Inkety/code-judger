@@ -10,4 +10,4 @@ They should be named startin from 0, with 0.in, 0.out, 1.in, and 1.out, and so o
 Line 1 of the config.txt file should be the time limit, and line 2 of the config.txt file should be the absolute time limit, both measured in seconds.
 The absolute time limit is approximately when the judge will stop running the code. The judge will not stop running it early if it finishes early.
 The status code TLEK means that the program was killed because it took longer than the absolute time limit.
-The next lines denotes the amount of points that each test case will be worth if the answer is accepted, each corresponding to one test case.
+The next lines denote the amount of points that each test case will be worth if the answer is accepted, each corresponding to one test case.
